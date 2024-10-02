@@ -31,6 +31,9 @@ The frontend UI consists of the following components:
 - "Insert in DB" button to store the generated data in the database
 - Output text box to display the generated narrative
 - Dropdown and button for regenerating selected portions of the narrative
+  
+# Preview
+![image](https://github.com/user-attachments/assets/80ef7943-1714-42bc-9ba2-25efd414ab46)
 
 # Getting Started
 ## Prerequisites
